@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>支払い完了</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+    h1 {
+      color: #4CAF50;
+    }
+  </style>
+</head>
+<body>
+  <h1>支払いが完了しました！</h1>
+  <p>ご利用ありがとうございます。ご質問がありましたら、引き続きLINEチャットをご利用ください。</p>
+</body>
+</html>
